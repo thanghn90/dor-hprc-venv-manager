@@ -2,7 +2,7 @@
 
 ModuLair - a Python virtual environment (venv) management tool suite
 ---
-
+Paper: https://dl.acm.org/doi/10.1145/3731599.3767435 
 ## Table of Contents
 - [Installation](#installation)
 - [Quick Start](#quick-start)
